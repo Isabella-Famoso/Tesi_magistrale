@@ -1,5 +1,5 @@
-,Component 1,Component 2,Component 3
-I_e error,0.7978,0.7394,0.6648
-r_e error,131.2292,4.5111,0.5184
-n error,2.4634,0.0990,0.0480
-x_0 error,0.0057,0.7519,0.8679
+,Component 1,Component 2,Component 3,Component 4
+I_e error,6.4883,4.5366,1.5441,2.2577
+r_e error,689.5394,896.2606,265.6526,64.5837
+n error,6.2039,5.8074,1.1921,1.6256
+x_0 error,0.4939,0.9517,0.4308,0.4612
