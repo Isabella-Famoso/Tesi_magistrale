@@ -1,0 +1,21 @@
+# redshift redshift_error
+nan	nan
+nan	nan
+nan	nan
+nan	nan
+nan	nan
+0.01421	0.00033
+0.01405	0.00008
+0.01408	0.00006
+0.01407	0.00007
+0.01407	0.00007
+0.01421	0.00007
+0.01427	0.00006
+0.01435	0.00004
+nan	nan
+nan	nan
+nan	nan
+nan	nan
+nan	nan
+nan	nan
+nan	nan
