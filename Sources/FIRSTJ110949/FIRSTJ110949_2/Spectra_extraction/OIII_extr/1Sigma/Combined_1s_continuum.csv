@@ -1,0 +1,5 @@
+,SNR,SNR,SNR,SNR,SNR,Signal,Signal,Signal,Signal,Signal,Noise,Noise,Noise,Noise,Noise
+,Spectrum_1,Spectrum_2,Spectrum_3,Spectrum_4,Spectrum_5,Spectrum_1,Spectrum_2,Spectrum_3,Spectrum_4,Spectrum_5,Spectrum_1,Spectrum_2,Spectrum_3,Spectrum_4,Spectrum_5
+Continuum_1,3.655,13.086,13.300,3.892,3.277,0.124,0.423,0.319,0.232,0.116,0.034,0.032,0.024,0.060,0.035
+Continuum_2,9.579,20.155,14.533,11.669,8.127,0.114,0.433,0.250,0.174,0.090,0.012,0.021,0.017,0.015,0.011
+Continuum_3,8.834,29.108,16.919,10.428,6.197,0.095,0.409,0.190,0.126,0.066,0.011,0.014,0.011,0.012,0.011
