@@ -1,6 +1,6 @@
 ,SNR,Signal,Noise
 Component_1,97.343,9.477,0.097
-Component_2,0.605,0.337,0.557
+Component_2,,0.000,
 Component_3,72.762,8.215,0.113
 Component_4,38.878,10.897,0.280
 Component_5,76.156,12.772,0.168
